@@ -1,0 +1,29 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 48px;
+    color: white;
+    margin-bottom: 8px
+}
+
+.button {
+  display: flex;
+  height: 24px;
+  width: 164px;
+  align-items: center;
+  justify-content: center;
+  background-color:yellow;
+  border: 1px solid white;
+  border-radius: 8px;
+  color: black;
+  padding: 16px;
+  text-align: center;
+  font-size: 16px;
+  margin-right: 8px;
+}
+
+.slider {
+    display: flex;
+    background: yellow;
+}
